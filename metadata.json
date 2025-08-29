@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Enhancer",
+  "description": "An application that accepts user photos and returns enhanced images using AI for super-resolution, denoising, deblurring, face restoration, color correction, and style-preserving enhancement.",
+  "requestFramePermissions": []
+}
